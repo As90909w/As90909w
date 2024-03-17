@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @As90909w
 - 👀 I’m interested in coding with the coding language SCSS
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Objective C+
 - 💞️ I’m looking to collaborate on 3kh0
 - 📫 How to reach me email p1480132@outloook.com
 - 😄 Pronouns: He/him
