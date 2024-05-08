@@ -1,7 +1,3 @@
-I 💞️ CATS
-
-[Screen recording 2024-05-07 3.43.13 PM.webm](https://github.com/As90909w/Coding-for-web-development/assets/163041654/01c8034d-c46b-4b33-aa12-44a89e1d434c)
-
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mxrch&api_domain=wakapi.dev&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%2030%20days)&layout=compact" />
 
 I've always been passionate about computers and hacking.\
