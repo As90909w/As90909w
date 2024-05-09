@@ -1,5 +1,5 @@
 STUFF ABOUT.....ME!!!!
-- 📫 How to reach me email p1480132@outloook.com
+- 📫 How to reach me email @p1480132@outlook.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I know more than 300 coding languages! Crazy, but it's true! YOU BETTER BELIVE IT!
 
