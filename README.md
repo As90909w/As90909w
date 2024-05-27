@@ -3,7 +3,9 @@ STUFF ABOUT.....ME!!!!
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I know more than 300 coding languages! Crazy, but it's true! YOU BETTER BELIVE IT!
 
-  
+
+<img src="https://komarev.com/ghpvc/?username=3kh0&style=flat" alt="3kh0" />
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mxrch&api_domain=wakapi.dev&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%2030%20days)&layout=compact" />
 
 I've always been passionate about computers and hacking.\
